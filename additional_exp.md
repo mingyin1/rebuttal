@@ -10,7 +10,7 @@
 
 **Table A2.** Strict vs. Relaxed TSR across models, and the absolute improvement under the relaxed threshold.
 
-| Model | Strict TSR | Relaxed TSR | Improvement |
+| Model | Strict TSR (%) | Relaxed TSR (%)| Improvement (%)|
 | :--- | :---: | :---: | :---: |
 | GPT-5 | 58.42 | 69.30 | +10.88 |
 | o3 | 46.53 | 59.41 | +12.88 |
