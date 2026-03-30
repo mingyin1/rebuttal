@@ -1,4 +1,4 @@
-**Table A1.** Statistical significance tests between major model tiers (McNemar’s test for TSR; Wilcoxon test for ARS).
+**Table A1.** Statistical significance tests between major model tiers (McNemar’s test for TSR; Wilcoxon test for ARS). (For **Re W1 & Q1**.)
 
 | Comparison Pair | McNemar’s p-value (TSR) | Wilcoxon p-value (ARS) | Significance |
 | :--- | :---: | :---: | :---: |
@@ -8,7 +8,7 @@
 | Qwen3-235B vs. Llama-3.3-70B | $p < 0.001$ | $p < 0.001$ | Highly Significant |
 
 
-**Table A2.** Strict vs. Relaxed TSR across models, and the absolute improvement under the relaxed threshold.
+**Table A2.** Strict vs. Relaxed TSR across models, and the absolute improvement under the relaxed threshold. (For **Re W4**.)
 
 | Model | Strict TSR (%) | Relaxed TSR (%)| Improvement (%)|
 | :--- | :---: | :---: | :---: |
@@ -21,7 +21,7 @@
 
 
 
-**Table A3.** Results of additional SOTA models (GPT-5.4 and Claude-4.6-Opus) compared with the previous best.
+**Table A3.** Results of additional SOTA models (GPT-5.4 and Claude-4.6-Opus) compared with the previous best. (For **Re W7**.)
 
 | Model | Strict TSR (%) | Relaxed TSR (%) | ARS (%) |
 | :--- | :---: | :---: | :---: |
@@ -30,7 +30,7 @@
 | GPT-5 (Previous Best) | 58.42 | 69.30 | 73.02 |
 
 
-**Table A4.** Comparison of ReAct vs. Plan-and-Execute (P&E) scaffolds across models (TSR and ARS).
+**Table A4.** Comparison of ReAct vs. Plan-and-Execute (P&E) scaffolds across models (TSR and ARS). (For **Re W8**.)
 | Model | ReAct TSR (%) | P&E  TSR (%) | ReAct ARS (%) | P&E ARS (%) |
 | :--- | :---: | :---: | :---: | :---: |
 | GPT-5 | **58.42** | 52.48 | **73.02** | 67.57 |
