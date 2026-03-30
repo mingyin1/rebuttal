@@ -1,6 +1,6 @@
 **Table A1.** Statistical significance tests between major model tiers (McNemar’s test for TSR; Wilcoxon test for ARS).
 
-| Comparison Pair | McNemar’s $p$-value (TSR) | Wilcoxon $p$-value (ARS) | Significance |
+| Comparison Pair | McNemar’s p-value (TSR) | Wilcoxon p-value (ARS) | Significance |
 | :--- | :---: | :---: | :---: |
 | GPT-5 vs. o3 | $p = 0.013$ | $p = 0.008$ | Significant |
 | GPT-5 vs. Claude-4.1-Opus (ET) | $p = 0.002$ | $p = 0.001$ | Highly Significant |
