@@ -1,3 +1,5 @@
+**Table A1.** Statistical significance tests between major model tiers (McNemar’s test for TSR; Wilcoxon test for ARS).
+
 | Comparison Pair | McNemar’s $p$-value (TSR) | Wilcoxon $p$-value (ARS) | Significance |
 | :--- | :---: | :---: | :---: |
 | GPT-5 vs. o3 | $p = 0.013$ | $p = 0.008$ | Significant |
@@ -5,6 +7,8 @@
 | Claude-4.1-Opus (ET) vs. Qwen3-235B | $p < 0.001$ | $p < 0.001$ | Highly Significant |
 | Qwen3-235B vs. Llama-3.3-70B | $p < 0.001$ | $p < 0.001$ | Highly Significant |
 
+
+**Table A2.** Strict vs. Relaxed TSR across models, and the absolute improvement under the relaxed threshold.
 
 | Model | Strict TSR | Relaxed TSR | Improvement |
 | :--- | :---: | :---: | :---: |
@@ -16,6 +20,8 @@
 | Llama-3.3-70B | 1.98 | 3.96 | +1.98 |
 
 
+
+**Table A3.** Results of additional SOTA models (GPT-5.4 and Claude-4.6-Opus) compared with the previous best.
 
 | Model | Strict TSR (%) | Relaxed TSR (%) | ARS (%) |
 | :--- | :---: | :---: | :---: |
